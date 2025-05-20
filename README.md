@@ -28,6 +28,6 @@ Foi feito um projeto de **página única** para a **Vinheria Agnello**. A propos
 
 ## 🌐 Site Publicado no GitHub Pages
 
-[https://seuusuario.github.io/vinheria-agnello](https://seuusuario.github.io/vinheria-agnello)
+[https://tutumbs.github.io/Cp3-Frontend/](https://tutumbs.github.io/Cp3-Frontend/)
 
 ---
