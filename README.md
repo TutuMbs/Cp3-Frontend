@@ -24,7 +24,7 @@ Foi feito um projeto de **página única** para a **Vinheria Agnello**. A propos
 
 ## 📁 Repositório no GitHub
 
-[https://github.com/seuusuario/vinheria-agnello](https://github.com/seuusuario/vinheria-agnello)
+[https://github.com/TutuMbs/Cp3-Frontend](https://github.com/TutuMbs/Cp3-Frontend)
 
 ## 🌐 Site Publicado no GitHub Pages
 
