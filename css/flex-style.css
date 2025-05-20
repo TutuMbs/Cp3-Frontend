@@ -141,6 +141,7 @@ button:focus {
   cursor: pointer;
   transition: transform 0.3s;
 }
+
 /* Hover no botao */
 .texto-sobreposto button:hover {
   transform: scale(1.1);
